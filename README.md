@@ -1,8 +1,8 @@
-# Tolmel
+# Crusade Builder
 
 **Description**
 
-A simple taggable CRM
+A Crusade Manager for Warhammer 40k
 
 Rails version: 8.0.0
 
